@@ -9,6 +9,7 @@ Console.WriteLine(message);
 
 var worker = new Worker();
 worker.DoWork();
+Console.WriteLine("end");
 
 
 
